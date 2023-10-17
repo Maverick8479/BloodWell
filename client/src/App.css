@@ -1,0 +1,6 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.links {
+  font-size: 1.5em;
+  padding: 0.5em;
+  cursor: pointer;
+}
